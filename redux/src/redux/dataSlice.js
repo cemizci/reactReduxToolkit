@@ -27,7 +27,7 @@ export const dataSlice = createSlice({
   },
 })
 
-// Action creators are generated for each case reducer function
+
 export const { createDataFunc, deleteDataFunc, updateDataFunc, setUpdateItem, clearUpdateItem } = dataSlice.actions
 
 export default dataSlice.reducer
