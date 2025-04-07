@@ -11,10 +11,10 @@ const Header = () => {
     <div>
         <header className="w-full border-b border-gray-200 bg-white">
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
-        {/* Logo */}
+        
         <div className="flex items-center space-x-5">
           <img
-            src="https://i.pinimg.com/736x/ab/92/0f/ab920f503c6ea441e15c2536487669d7.jpg" // Logonun yolunu buraya koy
+            src="https://i.pinimg.com/736x/ab/92/0f/ab920f503c6ea441e15c2536487669d7.jpg" 
             alt="Logo"
             className="w-16 h-16"
           />
